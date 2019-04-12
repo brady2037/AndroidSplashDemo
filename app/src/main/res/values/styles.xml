@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.Splash" parent ="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/drawable_splash</item>
+    </style>
+
+</resources>
